@@ -1,0 +1,5 @@
+repo: https://github.com/ronboger/mishmail
+primary_contact: security@ronboger.com
+homepage: https://github.com/ronboger/mishmail
+dockerfile: .oss-scanner/Dockerfile
+threat_model: .oss-scanner/threat_model.md
